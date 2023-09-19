@@ -3,8 +3,20 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Python tools</b>
+  - [Password generator](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
   - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
 
+- <b>👨‍💻 CyberSecurity Documents</b>
+  - [App review](https://drive.google.com/file/d/1VJbr4kUzVcTV8OSlzkHwA7OER7SWl3Nt/view?usp=drive_link)
+  - [Routing Protocol Authentication](https://docs.google.com/document/d/1wItmgBuDNGz73uQvyex4x1QOs7pVCETJ/edit?usp=drive_link&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Networking ports](https://drive.google.com/file/d/1UOVs4f8FnpnYWb4CkhNpuYh0g14cRCsP/view?usp=sharing)
+  - [CYBERONE KNIGHTS THE BEST WEB BROWSER](https://docs.google.com/document/d/1m5WQUNJIhxMTLP2JoKbNJuGcOjJAjs_6/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Types of computer networks ](https://docs.google.com/document/d/1G3tXPxzIpSC-AznnLJkRHmUu7mDflPgh/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Business plan ](https://docs.google.com/document/d/1_odp4DXkpo3wiqLLQ-Lu9csxUX6K0Bwc/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Business Pitch](https://drive.google.com/file/d/1V6YXSuBmQ1x09-WNoFpPxuvyNp64iVGn/view?usp=sharing)
+  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
+  - [Password generator](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
+  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
 
 <h2>📺 Popular YouTube Videos</h2>
 
