@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python tools</b>
+  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
 
 
 <h2>📺 Popular YouTube Videos</h2>
