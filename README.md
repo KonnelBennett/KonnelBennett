@@ -17,6 +17,10 @@
   - [Incident Plan document](https://docs.google.com/document/d/1L-MkTDNh2HPHNFqq2O2iZDEMBJqMSLhg/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Managing Finances with a Budget](https://drive.google.com/file/d/1QjZktUEvOBf6HGsHiwU2b4RTKHftmBPv/view?usp=sharing)
   - [Excel Budget](https://docs.google.com/spreadsheets/d/1uR2dCZf9kTjkjrXLc5w8VE5dCf95hG2U/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Introducting to Programming 2](https://docs.google.com/presentation/d/1RJ8GTxLN2KLMtr4m7Bv3Yrz6_TqeVAhi/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Web application security]([https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link](https://docs.google.com/presentation/d/1oGfokfx3Es5QY3sOtldzNRnqU4Dfm-qg/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true))
+  - [Cyber Godz SSLplus Security Risk management plan](https://docs.google.com/document/d/1tdE2B2rTRsElC3y_QfHXz0Vp_X8wWwij/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
 
 <h2>📺 Popular YouTube Videos</h2>
 
