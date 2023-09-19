@@ -14,9 +14,9 @@
   - [Types of computer networks ](https://docs.google.com/document/d/1G3tXPxzIpSC-AznnLJkRHmUu7mDflPgh/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Business plan ](https://docs.google.com/document/d/1_odp4DXkpo3wiqLLQ-Lu9csxUX6K0Bwc/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Business Pitch](https://drive.google.com/file/d/1V6YXSuBmQ1x09-WNoFpPxuvyNp64iVGn/view?usp=sharing)
-  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
-  - [Password generator](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
-  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
+  - [Incident Plan document](https://docs.google.com/document/d/1L-MkTDNh2HPHNFqq2O2iZDEMBJqMSLhg/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [Managing Finances with a Budget](https://drive.google.com/file/d/1QjZktUEvOBf6HGsHiwU2b4RTKHftmBPv/view?usp=sharing)
+  - [Excel Budget](https://docs.google.com/spreadsheets/d/1uR2dCZf9kTjkjrXLc5w8VE5dCf95hG2U/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
 
 <h2>📺 Popular YouTube Videos</h2>
 
