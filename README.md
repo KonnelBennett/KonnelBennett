@@ -1,5 +1,7 @@
 <h1>Hi, I'm Konnel!</h1>
+
 <h2>👨‍💻 CyberSecurity Certifications:</h2>
+
 - [Intoduction to IOTs](https://drive.google.com/file/d/1XOTCzB_q2hxmVEBrDz4oVjrrd6v6Kw22/view?usp=drive_link)
 - [Introduction to CyberSecurity](https://drive.google.com/file/d/1h04p9R2L6k22NqFoShfBj324n-Q817dY/view?usp=drive_link)
 
