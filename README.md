@@ -16,7 +16,7 @@
   - [App review](https://drive.google.com/file/d/1VJbr4kUzVcTV8OSlzkHwA7OER7SWl3Nt/view?usp=drive_link)
   - [Routing Protocol Authentication](https://docs.google.com/document/d/1wItmgBuDNGz73uQvyex4x1QOs7pVCETJ/edit?usp=drive_link&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Networking ports](https://drive.google.com/file/d/1UOVs4f8FnpnYWb4CkhNpuYh0g14cRCsP/view?usp=sharing)
-  - [CYBERONE KNIGHTS THE BEST WEB BROWSER](https://docs.google.com/document/d/1m5WQUNJIhxMTLP2JoKbNJuGcOjJAjs_6/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [THE BEST WEB BROWSER](https://docs.google.com/document/d/1m5WQUNJIhxMTLP2JoKbNJuGcOjJAjs_6/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Types of computer networks ](https://docs.google.com/document/d/1G3tXPxzIpSC-AznnLJkRHmUu7mDflPgh/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Business plan ](https://docs.google.com/document/d/1_odp4DXkpo3wiqLLQ-Lu9csxUX6K0Bwc/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Business Pitch](https://drive.google.com/file/d/1V6YXSuBmQ1x09-WNoFpPxuvyNp64iVGn/view?usp=sharing)
@@ -25,7 +25,7 @@
   - [Excel Budget](https://docs.google.com/spreadsheets/d/1uR2dCZf9kTjkjrXLc5w8VE5dCf95hG2U/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Introducting to Programming 2](https://docs.google.com/presentation/d/1RJ8GTxLN2KLMtr4m7Bv3Yrz6_TqeVAhi/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Web application security](https://docs.google.com/presentation/d/1oGfokfx3Es5QY3sOtldzNRnqU4Dfm-qg/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Cyber Godz SSLplus Security Risk management plan](https://docs.google.com/document/d/1tdE2B2rTRsElC3y_QfHXz0Vp_X8wWwij/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
+  - [SSLplus Security Risk management plan](https://docs.google.com/document/d/1tdE2B2rTRsElC3y_QfHXz0Vp_X8wWwij/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Social Engineering](https://drive.google.com/file/d/1klnxe7LxGQcRxKrnDiTUnefb22ph4MnI/view?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
