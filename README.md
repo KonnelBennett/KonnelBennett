@@ -35,7 +35,7 @@
 - [How To Make A Patch Work Cable](https://drive.google.com/file/d/10PDv8rcISo0npTRU9yl8AYeG04OM76ZR/view?usp=sharing)
 - [How to create an Acces Point ](https://drive.google.com/file/d/1kcfYPcN3otP0RccDLJbn2jMKQn4f17k1/view?usp=sharing)
 - [Pull down and Rebuild of a PC](https://drive.google.com/file/d/1pc6XxmrvGxhROZvty3M7WQEJ9T6PagUf/view?usp=drive_link)
-- [NIC card adaptor ]()
+- [NIC card adaptor ](https://drive.google.com/file/d/1KKsehFFWMio05RsvDPLKmWhSNij4dF_O/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
