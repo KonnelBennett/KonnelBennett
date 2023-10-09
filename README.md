@@ -31,10 +31,10 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [How to Install Windows 10 on a System](https://drive.google.com/file/d/1qmsQay5ZKjwWkF8_H67vSk5A7rf2TP9_/view?usp=sharing)
+- [How To Make A Patch Work Cable](https://drive.google.com/file/d/10PDv8rcISo0npTRU9yl8AYeG04OM76ZR/view?usp=sharing)
+- [How to create an Acces Point ](https://drive.google.com/file/d/1kcfYPcN3otP0RccDLJbn2jMKQn4f17k1/view?usp=sharing)
+- [Pull down and Rebuild of a PC](https://drive.google.com/file/d/1pc6XxmrvGxhROZvty3M7WQEJ9T6PagUf/view?usp=drive_link)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
@@ -44,10 +44,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
