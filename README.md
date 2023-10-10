@@ -28,7 +28,7 @@
   - [SSLplus Security Risk management plan](https://docs.google.com/document/d/1tdE2B2rTRsElC3y_QfHXz0Vp_X8wWwij/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
   - [Social Engineering](https://drive.google.com/file/d/1klnxe7LxGQcRxKrnDiTUnefb22ph4MnI/view?usp=sharing)
   - [Helpdesh Support Project](https://drive.google.com/file/d/1G-xf_OOgXvcXX479slv20ram4-Vj_n6K/view?usp=sharing)
-  - [Helpdesh Support Project](https://drive.google.com/file/d/1G-xf_OOgXvcXX479slv20ram4-Vj_n6K/view?usp=sharing)
+  
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -36,6 +36,7 @@
 - [How to Install Windows 10 on a System](https://drive.google.com/file/d/1qmsQay5ZKjwWkF8_H67vSk5A7rf2TP9_/view?usp=sharing)
 - [How To Make A Patch Work Cable](https://drive.google.com/file/d/10PDv8rcISo0npTRU9yl8AYeG04OM76ZR/view?usp=sharing)
 - [How to create an Acces Point ](https://drive.google.com/file/d/1kcfYPcN3otP0RccDLJbn2jMKQn4f17k1/view?usp=sharing)
+- [How to add security poilicies on windows 10](https://drive.google.com/file/d/18riCtpUzs5VhhLzSfRJ56COITQrrAtsa/view?usp=sharing)
 - [Pull down and Rebuild of a PC](https://drive.google.com/file/d/1pc6XxmrvGxhROZvty3M7WQEJ9T6PagUf/view?usp=drive_link)
 - [NIC card adaptor ](https://drive.google.com/file/d/1KKsehFFWMio05RsvDPLKmWhSNij4dF_O/view?usp=sharing)
 
