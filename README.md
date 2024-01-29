@@ -14,6 +14,7 @@
   - [Password generator](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
   - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
   - [Graphrical User Interface](https://drive.google.com/file/d/1GXgppwJ_I4w8N6fdgPS2YL2p5UYqWycU/view?usp=drive_link)
+  - [Password Managerv1.2](https://drive.google.com/drive/folders/1NHWg_zCqURb6b_AiuhzLVFeKuBasgex6?usp=drive_link)
 
 - <b>👨‍💻 CyberSecurity Documents</b>
   - [App Review](https://drive.google.com/file/d/1VJbr4kUzVcTV8OSlzkHwA7OER7SWl3Nt/view?usp=drive_link)
