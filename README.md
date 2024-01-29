@@ -1,4 +1,6 @@
 <h1>Hi, I'm Konnel!</h1>
+<h2>👨‍💻 About Me</h2>
+Passionate and innovative technologist with a knack for crafting secure, efficient, and dynamic software solutions. A cybersecurity enthusiast adept at ethical hacking and penetration testing, committed to fortifying digital landscapes. As an incident responder, I thrive in high-pressure situations, swiftly mitigating security threats. With an open mind and a forward-thinking approach, I navigate the ever-evolving tech realm, ensuring robust systems and resilient defenses.
 
 <h2>👨‍💻 CyberSecurity Certifications:</h2>
 
